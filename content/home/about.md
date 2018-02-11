@@ -7,17 +7,7 @@ date = "2016-04-20T00:00:00"
 # Order that this section will appear in.
 weight = 5
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Large Scale Machine Learning and Big Data",
-    "Statistical and Adversarial Learning Theory",
-    "Computational Learning Theory",
-    "Convex, Non-convex and Combinatorial Optimization Theory"
-  ]
-
- 
-+++
+ +++
 
 I am an Assistant Professor at Department of Computer Science & Engineering at Pennsylvania State University. I run the Optimization and Machine Learning Lab, where we work on fundemantal computational and theoretical problems in machine learning.
 
