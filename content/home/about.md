@@ -19,7 +19,7 @@ weight = 5
  
 +++
 
-# Biography
+### Biography
 
 I am an Assistant Professor at Department of Computer Science & Engineering, Pennsylvania State University. I run the Optimization and Machine Learning Lab, where we work on fundemantal computational and theoretical problems in machine learning.
 
