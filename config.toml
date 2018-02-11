@@ -55,13 +55,13 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Pennsylvania State University", url = "" } ]
+  organizations = [ { name = "Pennsylvania State University", url = "http://www.psu.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "mehrdad.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mzm616@psu.edu"
   address = "W365 Westgate Building, University Park, PA 16802, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  office_hours = "Tue Thur 11:00 to 12:00 or email for appointment"
   phone = "517 643 5284"
   skype = "mehrdad_mahdavi"
   telegram = ""
