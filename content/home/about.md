@@ -23,7 +23,7 @@ I am an Assistant Professor at Department of Computer Science & Engineering at P
 
 Before joining PSU, I was a research assistant professor at Toyota Technological Institute, at University of Chicago. I obtained my Ph.D. under the supervision of Prof. Rong Jin from Michigan State University. Before joining MSU, I spent two years as a Ph.D. student at Sharif University of Technology. I received my M.Sc in Computer Engineering department at Sharif University of Technology where my advisor was Prof. Mohammad Ghodsi, and my BS from Amirkabir University of Technology (Tehran Polytechnic). In the past I have worked at Microsoft Reaserch and NEC Laboratories America as research intern.
 
-## Research Interests
+### Research Interests
 
 I am broadly interested in machine learning and design and analysis of algorithms with a focus on:
 
