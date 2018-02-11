@@ -3,6 +3,10 @@
 widget = "about"
 active = true
 date = "2016-04-20T00:00:00"
+
+# Order that this section will appear in.
+weight = 5
+
 +++
 
 I am an Assistant Professor at Department of Computer Science & Engineering at Pennsylvania State University. I run the Optimization and Machine Learning Lab, where we work on fundemantal computational and theoretical problems in machine learning.
