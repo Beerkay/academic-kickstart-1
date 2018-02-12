@@ -2,10 +2,10 @@
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"
-active = false
+active = true
 date = 2016-04-20
 
-title = "Recent Publications"
+title = ""
 subtitle = ""
 
 # Order that this section will appear in.
@@ -36,5 +36,19 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
+## Submitted/In Preparation
+
+## Journal
+
+
+## Conference
+
+## Other Publications and Technical Reports
+
+
+## Book Chapters
+
+
+## Thesis
 
 
