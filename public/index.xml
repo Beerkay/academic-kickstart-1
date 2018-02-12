@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mehrdad Mahdavi on Mehrdad Mahdavi</title>
+    <link>http://www.cse.psu.edu/~mzm616/</link>
+    <description>Recent content in Mehrdad Mahdavi on Mehrdad Mahdavi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/~mzm616/" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
