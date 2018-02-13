@@ -36,7 +36,7 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-### <span style="color:red">Submitted/In Preparation</span>
+#### <span style="color:red">Submitted/In Preparation</span>
 
 * Excess Risk Bound for Exponentially Concave Losses [Abstract] [arXiv] 
 with Rong Jin
@@ -55,56 +55,57 @@ with Tianbao Yang and Rong Jin
 
 
 
-### <span style="color:red">Journal</span>
+#### <span style="color:red">Journal</span>
 
 * **Sketching meets random projection in the dual: A provable recovery algorithm for big and high-dimensional data**
 Jialei Wang, Jason D. Lee, Mehrdad Mahdavi, Mladen Kolar, and Nathan Srebro
+Electronic Journal of Statistics, 2017
 
-* Random Projections for Classification: A Recovery Approach [Abstract] [Slides] 
+* **Random Projections for Classification: A Recovery Approach** [Abstract] [Slides] 
 with Lijun Zhang, Rong Jin, Tianbao Yang, and Shenghuo Zhu
 IEEE Transactions on Information Theory, 2014. 
 
-* Matrix Factorization with Explicit Trust and Distrust Side Information for Improved Social Recommendation [Abstract] 
+* **Matrix Factorization with Explicit Trust and Distrust Side Information for Improved Social Recommendation** [Abstract] 
 with Rana Forsati, Mehrnoush Shamsfard, Mohammed Sarwat
 ACM Transaction on Information Systems (TOIS), 2014. 
 
-* An Efficient Primal Dual Prox Method for Non-Smooth Optimization [Abstract] 
+* **An Efficient Primal Dual Prox Method for Non-Smooth Optimization** [Abstract] 
 with Tianbao Yang, Rong Jin, and Shenghuo Zhu
 Machine Learning Journal, 2014. 
 
-* Regret Bounded by Gradual Variation for Online Convex Optimization [Abstract] 
+* **Regret Bounded by Gradual Variation for Online Convex Optimization** [Abstract] 
 with Tianbao Yang, Rong Jin, and Shenghuo Zhu
 Machine Learning Journal, 2013. 
 
-* Improved Bound for the Nystrõm Method with Application to Kernel Classification [Abstract] 
+* **Improved Bound for the Nystrõm Method with Application to Kernel Classification** [Abstract] 
 with Rong Jin, Tianbao Yang, Yu-Feng Li, and Zhi-Hua Zhou
 IEEE Transactions on Information Theory, 2013. 
 
-* Trading Regret for Efficiency: Online Convex Optimization with Long Term Constraints [Abstract] 
+* **Trading Regret for Efficiency: Online Convex Optimization with Long Term Constraints** [Abstract] 
 with Rong Jin and Tianbao Yang
 Journal of Machine Learning Research (JMLR), 2012. 
 
-* Efficient Stochastic Algorithms for Document Clustering [Abstract]
+* **Efficient Stochastic Algorithms for Document Clustering** [Abstract]
 with Rana Forsati, MohammadReza Meybodi, and Mehrnoush Shamsfard 
 Information Sciences, 2011. 
 
-* Harmony K-means Algorithm for Document Clustering [Abstract] 
+* **Harmony K-means Algorithm for Document Clustering** [Abstract] 
 with Hassan Abolhassani
 Data Mining and Knowledge Discovery, 2009. 
 
-* Novel Meta-heuristic Algorithms for Clustering Web Documents [Abstract] 
+* **Novel Meta-heuristic Algorithms for Clustering Web Documents** [Abstract] 
 with M Haghir Chehreghani, Hassan Abolhassani, and Rana Forsati
 Appl. Math. Comput., 2008. 
 
-* Algorithms for Bandwidth Delay Constrained Least Cost Multicast Routing [Abstract] 
+* **Algorithms for Bandwidth Delay Constrained Least Cost Multicast Routing** [Abstract] 
 with Rana Forsati and A. T. Haghighat
 Computer Communications (ComCom), 2008. 
 
-* Global Best Harmony Search [Abstract] 
+* **Global Best Harmony Search** [Abstract] 
 with M. G. H. Omran
 Appl. Math. Comput., 2008. 
 
-* An Improved Harmony Search Algorithm for Solving Optimization Problems [Abstract] 
+* **An Improved Harmony Search Algorithm for Solving Optimization Problems** [Abstract] 
 with Mohammad Fesanghary and E. Damangir
 Appl. Math. and Comput., 2007. 
 Top Cited Paper Award
@@ -112,7 +113,7 @@ Top Cited Paper Award
 
 
 
-### <span style="color:red">Conference</span>
+#### <span style="color:red">Conference</span>
 
 * Sketching Meets Random Projection in the Dual: A Provable Recovery Algorithm for Big and High-dimensional Data [Abstract] [arXiv] 
 with Jialei Wang, Jason D. Lee, Mladen Kolar, and Nathan Srebro
@@ -202,61 +203,61 @@ Information and Knowledge Discovery (IKT), 2007.
 
 
 
-### <span style="color:red">Other Publications and Technical Reports</span>
+#### <span style="color:red">Other Publications and Technical Reports</span>
 
 
-On the Tightness of LP Relaxations for Structured Prediction [Abstract] 
+* On the Tightness of LP Relaxations for Structured Prediction [Abstract] 
 with Ofer Meshi and David Sontag
 8th NIPS Workshop on Optimization for Machine Learning (OPT2015), 2015. 
 
-Online Stochastic Optimization with Multiple Objectives [Abstract] [arXiv] 
+* Online Stochastic Optimization with Multiple Objectives [Abstract] [arXiv] 
 with Tianbao Yang and Rong Jin
 5th NIPS Workshop on Optimization for Machine Learning (OPT2012), 2012. 
 
-Online Decision Making Under Stochastic Constraints [Abstract] 
+* Online Decision Making Under Stochastic Constraints [Abstract] 
 with Tianbao Yang and Rong Jin
 4th NIPS Workshop on Discrete Optimization in Machine Learning (DISCML), 2012. 
 
-An Improved Bound for the Nystrõm Method for Large Eigengap [Abstract] [arXiv] 
+* An Improved Bound for the Nystrõm Method for Large Eigengap [Abstract] [arXiv] 
 with Tianbao Yang and Rong Jin
 arXiv, 2012. 
 
-High Probability Bounds for Bandit Stochastic and Adversarial Strongly Convex Optimization [Abstract]
+* High Probability Bounds for Bandit Stochastic and Adversarial Strongly Convex Optimization [Abstract]
 with Rong Jin
 Technical Report, 2012
 
-Upper Bounding the Price of Anarchy in Atomic Splittable Selfish Routing [Abstract]
+* Upper Bounding the Price of Anarchy in Atomic Splittable Selfish Routing [Abstract]
 with Kamayar Khodamoradi and Mohammad Ghodsi
 Technical Report, 2008
 
-Hybridizing HS Algorithm with Sequential Quadratic Programming for Optimization Problems [Abstract]
+* Hybridizing HS Algorithm with Sequential Quadratic Programming for Optimization Problems [Abstract]
 with Mohammad Fesangharya, Majid Minary-Jolandan, and Y. Alizadeh
 Computer Methods in Applied Mechanics and Engineering, 2007. 
 
 
-## Book Chapters
+#### <span style="color:red">Book Chapters</span>
 
 
-Web Text Mining
+* Web Text Mining
 with Rana Forsati
 Studies in Computational Intelligence, Springer, 2010.
 
-Solving NP-Complete Problems by Harmony Search
+* Solving NP-Complete Problems by Harmony Search
 Mehrdad Mahdavi
 Harmony Search Algorithms: Theory and Applications
 Studies in Computational Intelligence, Springer, 2009.
 
-## Thesis
+#### <span style="color:red">Thesis</span>
 
-Exploiting Smoothness in Statistical Learning, Sequential Prediction, and Stochastic Optimization [PDF] [Slides] 
+* Exploiting Smoothness in Statistical Learning, Sequential Prediction, and Stochastic Optimization [PDF] [Slides] 
 PhD Thesis under supervision of  Prof. Rong Jin 
 Department of Computer Science, Michigan State University
 
-Parallel Coarse-grained Ranking of Web Pages 
+* Parallel Coarse-grained Ranking of Web Pages 
 MSc Thesis under supervision of  Prof. Mohammad Ghodsi 
 Department of Computer Engineering, Sharif University of Technology
 
-Performance Evaluation of Scheduling Algorithms in Grid Computing Environments 
+* Performance Evaluation of Scheduling Algorithms in Grid Computing Environments 
 BSc Thesis under Supervision of Dr. Hosseini Nezhad 
 Department of Computer Engineering, Amirkabir University of Technology (Tehran Polytechnic)
 
