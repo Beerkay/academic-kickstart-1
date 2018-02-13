@@ -10,7 +10,7 @@ title = "Mehrdad Mahdavi"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2017"
 
 theme = "academic"
 enableEmoji = true
@@ -55,14 +55,14 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Pennsylvania State University", url = "http://www.psu.edu/" } ]
+  organizations = [ { name = "Department of Computer Science & Engineering", url = "http://www.eecs.psu.edu/" }, { name = "Pennsylvania State University", url = "http://www.psu.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "mehrdad.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "mzm616@psu.edu"
+  email = "mzm616 (at) psu (dot) edu"
   address = "W365 Westgate Building, University Park, PA 16802, USA"
   office_hours = "Tue Thur 11:00 to 12:00 or email for appointment"
-  phone = "517 643 5284"
+  phone = "(814) 863-0076"
   skype = "mehrdad_mahdavi"
   telegram = ""
 
@@ -222,7 +222,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/mehrdadmahdavi"
 
   [[params.social]]
     icon = "google-scholar"
@@ -249,31 +249,38 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "publications"
+  name = "Research"
+  url = "research"
   weight = 2
 
 [[menu.main]]
-  name = "Experiences"
-  url = "experiences"
+  name = "Publications"
+  url = "publications"
   weight = 3
 
+
 [[menu.main]]
-  name = "Services"
-  url = "services"
+  name = "Optimization and Machine Learning Lab"
+  url = "lab"
   weight = 4
+
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
   weight = 5
 
-
 [[menu.main]]
-  name = "Optimization and Machine Learning Lab"
-  url = "lab"
+  name = "Services"
+  url = "services"
   weight = 6
 
+
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 7
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
